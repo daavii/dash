@@ -11,5 +11,5 @@ name = "pypi"
 
 [packages]
 
-lxml = "==3.4.4"
+lxml = "==4.6.2"
 requests = "*"
